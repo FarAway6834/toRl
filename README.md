@@ -16,3 +16,7 @@ verbatim
 ### how?
 
 c lang int x * y = z <-> c lang int z / y = x
+
+### how 2 work
+
+get param.
