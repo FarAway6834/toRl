@@ -1,8 +1,8 @@
 # TORL : Object Regular Len
 
-## TORL, make [TLQKF](https://github.com/FarAway6834/TLQKF) greater.
+## TORL, make [TLQKF](https://github.com/LAFTF/TLQKF) greater.
 
-## WARNING : [TLQKF](https://github.com/FarAway6834/TLQKF) use **korean**
+## WARNING : [TLQKF](https://github.com/LAFTF/TLQKF) use **korean**
 
 ## syntax
 
